@@ -1,13 +1,13 @@
-2a8ff67523e49041b9a31b9e7a002bae *DESCRIPTION
+f1be83e511de51ab17389d325df7ecf4 *DESCRIPTION
 4acd9e03bfa5e0a255e5bdb2170672d7 *NAMESPACE
-b49f3096e05c93eae67e425a33734468 *NEWS
+04247977f4334c4ef19d69588f40e403 *NEWS
 5b7bc5d73c30df71f72dda40b839d42c *R/comPlot.R
-c6a8f8da23e40eeeca98044c73afb475 *R/convertEiData.R
+1eff65c194a1a315fcba7a49e877a4e1 *R/convertEiData.R
 2773deb295c7faaced2d12fc19bdbe83 *R/eiwild.R
 9faae7c1b63a7ee5f4732e8c5cbe5a81 *R/helpers.R
 19df99b449f444031fb63fae3eaf508d *R/indAggEi.R
 acab06adbe79f9284224e942293d9b6e *R/plot.eiwild.R
-a3ff979b6374afb248528b8080f09adc *R/plotResult.R
+2f6018b50339fb8e85af282bc87306b6 *R/plotResult.R
 b07ff0647a7c6f0994e4181ddda3b7d5 *R/prioriPlot.R
 c3ffd17232841ee4012716e9ec642ca3 *R/runMBayes.R
 6ea3e2eef6577cc82e5c49795eae64c0 *R/summary.eiwild.R
